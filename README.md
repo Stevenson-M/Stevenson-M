@@ -6,7 +6,9 @@
   </a>
  <p/>
 
-<p align="center"><img alt="GIF" src="https://icons8.com/illustrations/illustration/coworking-male-programmer-writing-program-code--animated" width="500" height="320" /><p/>
+<p align="center">
+  <img alt="Programmer at Work" src="images/main.gif" width="500" height="320" />
+</p>
 
 ✔ Passionate Engineer, FullStack Developer, and QA Analyst.
 
@@ -20,22 +22,31 @@
 
 **Languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet.png"></code>
+<code><img height="20" src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg?updated=1716449045641"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
 
 ---
 
-**📈 My GitHub stats:**
+**🎓 Certifications and Courses:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stevenson-M&show_icons=true&theme=tokyonight" alt="Stevenson's stats" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenson-M&langs_count=8&layout=compact&theme=tokyonight" alt="Stevenson's langs" /></p>
+- **[Curso de Automatización de Pruebas UI con Cypress](https://platzi.com/cursos/cypress-ui/) - Platzi** (Sep 2023)
+- **[Curso de Automatización de Pruebas de Backend con Cypress](https://platzi.com/cursos/cypress-backend/) - Platzi** (Sep 2023)
+- **[Curso de Fundamentos de Pruebas de Software](https://platzi.com/cursos/fundamentos-testing/) - Platzi** (Ago 2023)
+- **[Curso Básico de Jenkins](https://platzi.com/cursos/jenkins/) - Platzi** (Abr 2023)
+- **[Curso de Introducción al Testing con JavaScript](https://platzi.com/cursos/testing-javascript/) - Platzi** (Abr 2023)
+- **[Curso Básico de JavaScript](https://platzi.com/cursos/javascript-basico/) - Platzi** (Mar 2023)
+- **[Curso Básico de Testing en Java](https://platzi.com/cursos/testing-java/) - Platzi** (Mar 2023)
+- **[Curso de Introducción a Java SE](https://platzi.com/cursos/java-se/) - Platzi** (Mar 2023)
+- **[Curso Gratis de Programación Básica](https://platzi.com/cursos/programacion-basica/) - Platzi** (Sept 2021)
 
 
